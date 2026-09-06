@@ -1,0 +1,6 @@
+{
+  "name": "Cloud300 - Free 300GB Cloud Storage",
+  "description": "Free 300GB secure cloud storage for Photos, Videos, Audio, Documents, and Zip archives with Mobile Number and SMS OTP login.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
